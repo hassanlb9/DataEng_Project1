@@ -34,13 +34,13 @@ This app is built using Python 3.8
 
 TTo install the Python packages for the project, clone the repository and run:
 ```
-* docker image build -t "img_name" .
+docker image build -t "img_name" .
 ```
 ```
-* docker image ls
+docker image ls
 ```
 ```
-* docker run -p 8000:5000 -d "img_name"
+docker run -p 8000:5000 -d "img_name"
 ```
 
 #### Test the app
