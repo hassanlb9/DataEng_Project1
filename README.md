@@ -21,10 +21,9 @@ The application we've made is a sentiment analysis application, which, given a p
 
 * __static__ : the root to the css project
 * __templates__ : The html code
-* __Dockerfile__ : The directory containing the 6 notebooks used for that project
-* __mlruns__ : A directory created when using MLflow which contains the runs' logs
+* __Dockerfile__ : The text document that contains the instructions to assemble a Docker image
 * __main.py__: A py file used to deploy the model using flask 
-* __requirements__: This file is used by pip to install required python packages
+* __requirements.txt__: This file is used by pip to install required python packages
 * __ReadMe.md__ : The file you are currently reading
 
 ## Prerequisites
@@ -33,6 +32,12 @@ This app is built using Python 3.6.6
 
 # Start the project
 
-### docker image build -t docker-python-flask .
-### docker image ls
-### docker run -p 8000:5000 -d docker-python-flask
+TTo install the Python packages for the project, clone the repository and run:
+
+* docker image build -t "img_name" .
+* docker image ls
+* docker run -p 8000:5000 -d "img_name"
+
+#### Test the app
+* Open Browser: http://localhost:8000.
+* 
