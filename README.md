@@ -41,4 +41,6 @@ TTo install the Python packages for the project, clone the repository and run:
 #### Test the app
 * Open Browser: http://localhost:8000.
 
+![image](https://user-images.githubusercontent.com/93646318/145895432-0417cb45-754d-4227-b928-59c4d11c5423.png)
+
 
