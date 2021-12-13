@@ -29,7 +29,7 @@ The application we've made is a sentiment analysis application, which, given a p
 
 ## Project Management
 
-We used trello for management tools during all the project :
+We used trello as project management tools during all the project :
 
 ```
 https://trello.com/b/onLA1AuA/tableau-du-projet
