@@ -25,6 +25,7 @@ The application we've made is a sentiment analysis application, which, given a p
 * __main.py__: A py file used to deploy the model using flask 
 * __requirements.txt__: This file is used by pip to install required python packages
 * __ReadMe.md__ : The file you are currently reading
+* __Test.py__ : The file for testing the app
 
 ## Project Management
 
