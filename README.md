@@ -26,7 +26,7 @@ The application we've made is a sentiment analysis application, which, given a p
 * __requirements.txt__: This file is used by pip to install required python packages
 * __ReadMe.md__ : The file you are currently reading
 
-## Project Organization
+## Project Management
 
 We used trello for management tools during all the project :
 
