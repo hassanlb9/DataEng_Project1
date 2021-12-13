@@ -1,39 +1,66 @@
 body {
-    background-color: grey;
+    background-color: #DBE0E0;
 }
+
 .container-lg {
     width: 80%;
-    height 550px;
-    color: red;
-    background-color: red;
-    border-radius: 20px;
+    height 500px;
+    color: black;
+    margin-top: 10px;
+    background-color: #DBE0E0;
+    border-radius: 200px;
 }
 
 .heading {
     text-align: center;
-    padding-top: 50px;
-    margin-top: 50px;
+    padding-top: 40px;
+    margin-top: 10px;
     font-weight: bold;
 }
+
+.title {
+    text-align:center;
+}
 #inp{
-    display:flex;
-    height: 80px;
+    vertical-align: top;
+    height: 150px;
     width: 600px;
     margin-left:135px;
-    margin-top: 30 px;
+    margin-top: 50px;
 
 }
-#btn {
-    margin-top: 30px;
-    height: 50px;
-    width: 100px;
-    text-align:center;
+.btn {
+    border: none;
+    background: #404040;
+    color: #ffffff !important;
+    font-weight: 100;
+    padding: 20px;
+    text-transform: uppercase;
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    margin-top: 200px;
+    margin-left: 625px;
+    margin-top: 2em;
 
+}
+
+.btn:hover {
+    color: #404040 !important;
+    font-weight: 700 ;
+    letter-spacing: 2px;
+    background: none;
+    -webkit-box-shadow: 0px 5px 20px -5px rgba(0,0,0,0.20);
+    -moz-box-shadow: 0px 5px 20px -5px rgba(0,0,0,0.20);
+    transition: all 0.3s ease 0s;
 }
 .from {
     text-align:center;
+    margin-bot: 150px;
+
 }
 .output {
     text-align:center;
-    margin: 50px;
+    margin: 40px;
 }
+
