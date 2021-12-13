@@ -28,7 +28,7 @@ The application we've made is a sentiment analysis application, which, given a p
 
 ## Prerequisites
 
-This app is built using Python 3.6.6
+This app is built using Python 3.8
 
 # Start the project
 
