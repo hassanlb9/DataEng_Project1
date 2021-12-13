@@ -40,4 +40,3 @@ TTo install the Python packages for the project, clone the repository and run:
 
 #### Test the app
 * Open Browser: http://localhost:8000.
-* 
