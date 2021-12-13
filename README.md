@@ -26,6 +26,15 @@ The application we've made is a sentiment analysis application, which, given a p
 * __requirements.txt__: This file is used by pip to install required python packages
 * __ReadMe.md__ : The file you are currently reading
 
+## Project Organization
+
+We used trello for management tools during all the project :
+
+```
+https://trello.com/b/onLA1AuA/tableau-du-projet
+```
+
+
 ## Prerequisites
 
 This app is built using Python 3.8
